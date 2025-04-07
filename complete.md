@@ -1,231 +1,223 @@
+# Globalna flota Airbus A380 (aktywna w okresie IV 2024 – IV 2025)  
+(A – aktywny, S – w serwisie/przeglądzie)
 
-# 🌍 Globalna Flota Airbus A380 (IV 2024 – IV 2025)
+## All Nippon Airways (3 szt.)
+| 🇯🇵 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 1       | A380-841 | JA381A     | All Nippon Airways   | A      |
+| 2       | A380-841 | JA382A     | All Nippon Airways   | A      |
+| 3       | A380-841 | JA383A     | All Nippon Airways   | A      |
 
-Legenda:
-- **A** – Aktywny (w eksploatacji)
-- **S** – Serwis / długoterminowe odstawienie
+## Asiana Airlines (6 szt.)
+| 🇰🇷 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 4       | A380-841 | HL7625     | Asiana Airlines      | A      |
+| 5       | A380-841 | HL7626     | Asiana Airlines      | A      |
+| 6       | A380-841 | HL7627     | Asiana Airlines      | A      |
+| 7       | A380-841 | HL7628     | Asiana Airlines      | S      |
+| 8       | A380-841 | HL7634     | Asiana Airlines      | S      |
+| 9       | A380-841 | HL7635     | Asiana Airlines      | S      |
 
-## 🇯🇵 All Nippon Airways (ANA) – 3 sztuki
+**(Aktywnie użytkowane były 3 z 6 maszyn Asiany – trzy kolejne pozostawały odstawione w oczekiwaniu na powrót do służby)**
 
-| Lp | Model     | Rejestracja | Status |
-|----|-----------|-------------|--------|
-| 1  | A380-841  | JA381A      | A      |
-| 2  | A380-841  | JA382A      | A      |
-| 3  | A380-841  | JA383A      | A      |
+## British Airways (12 szt.)
+| 🇬🇧 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 10      | A380-841 | G-XLEA     | British Airways      | A      |
+| 11      | A380-841 | G-XLEB     | British Airways      | A      |
+| 12      | A380-841 | G-XLEC     | British Airways      | A      |
+| 13      | A380-841 | G-XLED     | British Airways      | A      |
+| 14      | A380-841 | G-XLEE     | British Airways      | A      |
+| 15      | A380-841 | G-XLEF     | British Airways      | A      |
+| 16      | A380-841 | G-XLEG     | British Airways      | A      |
+| 17      | A380-841 | G-XLEH     | British Airways      | A      |
+| 18      | A380-841 | G-XLEI     | British Airways      | A      |
+| 19      | A380-841 | G-XLEJ     | British Airways      | A      |
+| 20      | A380-841 | G-XLEK     | British Airways      | A      |
+| 21      | A380-841 | G-XLEL     | British Airways      | A      |
 
-## 🇰🇷 Asiana Airlines – 6 sztuk
+**(Wszystkie 12 A380 British Airways powróciło do obsługi lotów komercyjnych)**
 
-| Lp | Model     | Rejestracja | Status |
-|----|-----------|-------------|--------|
-| 4  | A380-841  | HL7625      | A      |
-| 5  | A380-841  | HL7626      | A      |
-| 6  | A380-841  | HL7627      | A      |
-| 7  | A380-841  | HL7628      | S      |
-| 8  | A380-841  | HL7634      | S      |
-| 9  | A380-841  | HL7635      | S      |
+## Emirates (ok. 116 szt. w eksploatacji)
+| 🇦🇪 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 22      | A380-861 | A6-EDG     | Emirates             | A      |
+| 23      | A380-861 | A6-EDI     | Emirates             | A      |
+| 24      | A380-861 | A6-EDJ     | Emirates             | A      |
+| 25      | A380-861 | A6-EDK     | Emirates             | A      |
+| 26      | A380-861 | A6-EDL     | Emirates             | A      |
+| 27      | A380-861 | A6-EDM     | Emirates             | A      |
+| 28      | A380-861 | A6-EDN     | Emirates             | A      |
+| 29      | A380-861 | A6-EDO     | Emirates             | A      |
+| 30      | A380-861 | A6-EDP     | Emirates             | A      |
+| 31      | A380-861 | A6-EDQ     | Emirates             | A      |
+| 32      | A380-861 | A6-EDR     | Emirates             | A      |
+| 33      | A380-861 | A6-EDS     | Emirates             | A      |
+| 34      | A380-861 | A6-EDT     | Emirates             | A      |
+| 35      | A380-861 | A6-EDU     | Emirates             | A      |
+| 36      | A380-861 | A6-EDV     | Emirates             | A      |
+| 37      | A380-861 | A6-EDW     | Emirates             | A      |
+| 38      | A380-861 | A6-EDX     | Emirates             | A      |
+| 39      | A380-861 | A6-EDY     | Emirates             | A      |
+| 40      | A380-861 | A6-EDZ     | Emirates             | A      |
+| 41      | A380-861 | A6-EEA     | Emirates             | A      |
+| 42      | A380-861 | A6-EEB     | Emirates             | A      |
+| 43      | A380-861 | A6-EEC     | Emirates             | A      |
+| 44      | A380-861 | A6-EED     | Emirates             | A      |
+| 45      | A380-861 | A6-EEE     | Emirates             | A      |
+| 46      | A380-861 | A6-EEF     | Emirates             | A      |
+| 47      | A380-861 | A6-EEG     | Emirates             | A      |
+| 48      | A380-861 | A6-EEH     | Emirates             | A      |
+| 49      | A380-861 | A6-EEI     | Emirates             | A      |
+| 50      | A380-861 | A6-EEJ     | Emirates             | A      |
+| 51      | A380-861 | A6-EEK     | Emirates             | A      |
+| 52      | A380-861 | A6-EEL     | Emirates             | A      |
+| 53      | A380-861 | A6-EEM     | Emirates             | A      |
+| 54      | A380-861 | A6-EEN     | Emirates             | A      |
+| 55      | A380-861 | A6-EEO     | Emirates             | A      |
+| 56      | A380-861 | A6-EEP     | Emirates             | A      |
+| 57      | A380-861 | A6-EEQ     | Emirates             | A      |
+| 58      | A380-861 | A6-EER     | Emirates             | A      |
+| 59      | A380-861 | A6-EES     | Emirates             | A      |
+| 60      | A380-861 | A6-EET     | Emirates             | A      |
+| 61      | A380-861 | A6-EEU     | Emirates             | S      |
+| 62      | A380-861 | A6-EEV     | Emirates             | S      |
+| 63      | A380-861 | A6-EEW     | Emirates             | S      |
+| 64      | A380-861 | A6-EEX     | Emirates             | S      |
+| 65      | A380-861 | A6-EEY     | Emirates             | A      |
+| 66      | A380-861 | A6-EEZ     | Emirates             | A      |
+| 67      | A380-861 | A6-EOA     | Emirates             | A      |
+| 68      | A380-861 | A6-EOB     | Emirates             | A      |
+| 69      | A380-861 | A6-EOC     | Emirates             | A      |
+| 70      | A380-861 | A6-EOD     | Emirates             | A      |
+| 71      | A380-861 | A6-EOE     | Emirates             | A      |
+| 72      | A380-861 | A6-EOF     | Emirates             | A      |
+| 73      | A380-861 | A6-EOG     | Emirates             | A      |
+| 74      | A380-861 | A6-EOH     | Emirates             | A      |
+| 75      | A380-861 | A6-EOI     | Emirates             | A      |
+| 76      | A380-861 | A6-EOJ     | Emirates             | A      |
+| 77      | A380-861 | A6-EOK     | Emirates             | A      |
+| 78      | A380-861 | A6-EOL     | Emirates             | A      |
+| 79      | A380-842 | A6-EOM     | Emirates             | A      |
+| 80      | A380-842 | A6-EON     | Emirates             | A      |
+| 81      | A380-842 | A6-EOO     | Emirates             | A      |
+| 82      | A380-842 | A6-EOP     | Emirates             | A      |
+| 83      | A380-842 | A6-EOQ     | Emirates             | A      |
+| 84      | A380-842 | A6-EOR     | Emirates             | A      |
+| 85      | A380-842 | A6-EOS     | Emirates             | A      |
+| 86      | A380-842 | A6-EOT     | Emirates             | A      |
+| 87      | A380-842 | A6-EOU     | Emirates             | A      |
+| 88      | A380-842 | A6-EOV     | Emirates             | A      |
+| 89      | A380-842 | A6-EOW     | Emirates             | A      |
+| 90      | A380-842 | A6-EOX     | Emirates             | A      |
+| 91      | A380-842 | A6-EOY     | Emirates             | A      |
+| 92      | A380-842 | A6-EOZ     | Emirates             | A      |
+| 93      | A380-842 | A6-EVA     | Emirates             | A      |
+| 94      | A380-842 | A6-EVB     | Emirates             | A      |
+| 95      | A380-842 | A6-EVC     | Emirates             | A      |
+| 96      | A380-842 | A6-EVD     | Emirates             | A      |
+| 97      | A380-842 | A6-EVE     | Emirates             | A      |
+| 98      | A380-842 | A6-EVF     | Emirates             | A      |
+| 99      | A380-842 | A6-EVG     | Emirates             | A      |
+| 100     | A380-842 | A6-EVH     | Emirates             | A      |
+| 101     | A380-842 | A6-EVI     | Emirates             | A      |
+| 102     | A380-842 | A6-EVJ     | Emirates             | A      |
+| 103     | A380-842 | A6-EVK     | Emirates             | A      |
+| 104     | A380-842 | A6-EVL     | Emirates             | A      |
+| 105     | A380-842 | A6-EVM     | Emirates             | A      |
+| 106     | A380-842 | A6-EVN     | Emirates             | A      |
+| 107     | A380-842 | A6-EVO     | Emirates             | A      |
+| 108     | A380-842 | A6-EVP     | Emirates             | A      |
+| 109     | A380-842 | A6-EVQ     | Emirates             | A      |
+| 110     | A380-842 | A6-EVR     | Emirates             | A      |
+| 111     | A380-842 | A6-EVS     | Emirates             | A      |
 
-## 🇬🇧 British Airways – 12 sztuk
+**(Emirates dysponuje największą flotą A380 – wszystkie dostępne maszyny zostały ponownie wprowadzone do służby po pandemii, z wyjątkiem kilku egzemplarzy przechodzących właśnie długotrwały program modernizacji kabin)**
 
-| Lp | Model     | Rejestracja | Status |
-|----|-----------|-------------|--------|
-| 10 | A380-841  | G-XLEA      | A      |
-| 11 | A380-841  | G-XLEB      | A      |
-| 12 | A380-841  | G-XLEC      | A      |
-| 13 | A380-841  | G-XLED      | A      |
-| 14 | A380-841  | G-XLEE      | A      |
-| 15 | A380-841  | G-XLEF      | A      |
-| 16 | A380-841  | G-XLEG      | A      |
-| 17 | A380-841  | G-XLEH      | A      |
-| 18 | A380-841  | G-XLEI      | A      |
-| 19 | A380-841  | G-XLEJ      | A      |
-| 20 | A380-841  | G-XLEK      | A      |
-| 21 | A380-841  | G-XLEL      | A      |
+## Etihad Airways (7 szt.)
+| 🇦🇪 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 112     | A380-861 | A6-APA     | Etihad Airways       | A      |
+| 113     | A380-861 | A6-APB     | Etihad Airways       | A      |
+| 114     | A380-861 | A6-APC     | Etihad Airways       | A      |
+| 115     | A380-861 | A6-APD     | Etihad Airways       | A      |
+| 116     | A380-861 | A6-APE     | Etihad Airways       | A      |
+| 117     | A380-861 | A6-APF     | Etihad Airways       | A      |
+| 118     | A380-861 | A6-APG     | Etihad Airways       | S      |
 
-## 🇦🇪 Emirates – 116 sztuk
+**(Etihad przywrócił do latania 4 swoje A380 w 2023 r., a w 2024 zaplanował reanimację pozostałych – do połowy 2025 flota ma ponownie liczyć 7 aktywnych maszyn)**
 
-| 22 | A380-861 | A6-EAA | A |
-| 23 | A380-861 | A6-EBA | A |
-| 24 | A380-861 | A6-ECA | A |
-| 25 | A380-861 | A6-EDA | A |
-| 26 | A380-861 | A6-EEA | A |
-| 27 | A380-861 | A6-EFA | A |
-| 28 | A380-861 | A6-EGA | A |
-| 29 | A380-861 | A6-EHA | A |
-| 30 | A380-861 | A6-EIA | A |
-| 31 | A380-861 | A6-EJA | A |
-| 32 | A380-861 | A6-EKA | A |
-| 33 | A380-861 | A6-ELA | A |
-| 34 | A380-861 | A6-EMA | A |
-| 35 | A380-861 | A6-ENA | A |
-| 36 | A380-861 | A6-EOA | A |
-| 37 | A380-861 | A6-EPA | A |
-| 38 | A380-861 | A6-EQA | A |
-| 39 | A380-861 | A6-ERA | A |
-| 40 | A380-861 | A6-ESA | A |
-| 41 | A380-861 | A6-ETA | A |
-| 42 | A380-861 | A6-EUA | A |
-| 43 | A380-861 | A6-EVA | A |
-| 44 | A380-861 | A6-EWA | A |
-| 45 | A380-861 | A6-EXA | A |
-| 46 | A380-861 | A6-EYA | A |
-| 47 | A380-861 | A6-EZA | A |
-| 48 | A380-861 | A6-EAB | A |
-| 49 | A380-861 | A6-EBB | A |
-| 50 | A380-861 | A6-ECB | A |
-| 51 | A380-861 | A6-EDB | A |
-| 52 | A380-861 | A6-EEB | A |
-| 53 | A380-861 | A6-EFB | A |
-| 54 | A380-861 | A6-EGB | A |
-| 55 | A380-861 | A6-EHB | A |
-| 56 | A380-861 | A6-EIB | A |
-| 57 | A380-861 | A6-EJB | A |
-| 58 | A380-861 | A6-EKB | A |
-| 59 | A380-861 | A6-ELB | A |
-| 60 | A380-861 | A6-EMB | A |
-| 61 | A380-861 | A6-ENB | A |
-| 62 | A380-861 | A6-EOB | A |
-| 63 | A380-861 | A6-EPB | A |
-| 64 | A380-861 | A6-EQB | A |
-| 65 | A380-861 | A6-ERB | A |
-| 66 | A380-861 | A6-ESB | A |
-| 67 | A380-861 | A6-ETB | A |
-| 68 | A380-861 | A6-EUB | A |
-| 69 | A380-861 | A6-EVB | A |
-| 70 | A380-861 | A6-EWB | A |
-| 71 | A380-861 | A6-EXB | A |
-| 72 | A380-861 | A6-EYB | A |
-| 73 | A380-861 | A6-EZB | A |
-| 74 | A380-861 | A6-EAC | A |
-| 75 | A380-861 | A6-EBC | A |
-| 76 | A380-861 | A6-ECC | A |
-| 77 | A380-861 | A6-EDC | A |
-| 78 | A380-861 | A6-EEC | A |
-| 79 | A380-861 | A6-EFC | A |
-| 80 | A380-861 | A6-EGC | A |
-| 81 | A380-861 | A6-EHC | A |
-| 82 | A380-861 | A6-EIC | A |
-| 83 | A380-861 | A6-EJC | A |
-| 84 | A380-861 | A6-EKC | A |
-| 85 | A380-861 | A6-ELC | A |
-| 86 | A380-861 | A6-EMC | A |
-| 87 | A380-861 | A6-ENC | A |
-| 88 | A380-861 | A6-EOC | A |
-| 89 | A380-861 | A6-EPC | A |
-| 90 | A380-861 | A6-EQC | A |
-| 91 | A380-861 | A6-ERC | A |
-| 92 | A380-861 | A6-ESC | A |
-| 93 | A380-861 | A6-ETC | A |
-| 94 | A380-861 | A6-EUC | A |
-| 95 | A380-861 | A6-EVC | A |
-| 96 | A380-861 | A6-EWC | A |
-| 97 | A380-861 | A6-EXC | A |
-| 98 | A380-861 | A6-EYC | A |
-| 99 | A380-861 | A6-EZC | A |
-| 100 | A380-861 | A6-EAD | A |
-| 101 | A380-861 | A6-EBD | A |
-| 102 | A380-861 | A6-ECD | A |
-| 103 | A380-861 | A6-EDD | A |
-| 104 | A380-861 | A6-EED | A |
-| 105 | A380-861 | A6-EFD | A |
-| 106 | A380-861 | A6-EGD | A |
-| 107 | A380-861 | A6-EHD | A |
-| 108 | A380-861 | A6-EID | A |
-| 109 | A380-861 | A6-EJD | A |
-| 110 | A380-861 | A6-EKD | A |
-| 111 | A380-861 | A6-ELD | A |
-| 112 | A380-861 | A6-EMD | A |
-| 113 | A380-861 | A6-END | A |
-| 114 | A380-861 | A6-EOD | A |
-| 115 | A380-861 | A6-EPD | A |
-| 116 | A380-861 | A6-EQD | A |
-| 117 | A380-861 | A6-ERD | A |
-| 118 | A380-861 | A6-ESD | A |
-| 119 | A380-861 | A6-ETD | A |
-| 120 | A380-861 | A6-EUD | A |
-| 121 | A380-861 | A6-EVD | A |
-| 122 | A380-861 | A6-EWD | A |
-| 123 | A380-861 | A6-EXD | A |
-| 124 | A380-861 | A6-EYD | A |
-| 125 | A380-861 | A6-EZD | A |
-| 126 | A380-861 | A6-EAE | A |
-| 127 | A380-861 | A6-EBE | A |
-| 128 | A380-861 | A6-ECE | A |
-| 129 | A380-861 | A6-EDE | A |
-| 130 | A380-861 | A6-EEE | A |
-| 131 | A380-861 | A6-EFE | A |
-| 132 | A380-861 | A6-EGE | A |
-| 133 | A380-861 | A6-EHE | A |
-| 134 | A380-861 | A6-EIE | A |
-| 135 | A380-861 | A6-EJE | A |
-| 136 | A380-861 | A6-EKE | A |
-| 137 | A380-861 | A6-ELE | A |
+## Korean Air (7 szt.)
+| 🇰🇷 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 119     | A380-861 | HL7614     | Korean Air           | A      |
+| 120     | A380-861 | HL7615     | Korean Air           | A      |
+| 121     | A380-861 | HL7616     | Korean Air           | A      |
+| 122     | A380-861 | HL7617     | Korean Air           | A      |
+| 123     | A380-861 | HL7618     | Korean Air           | A      |
+| 124     | A380-861 | HL7619     | Korean Air           | S      |
+| 125     | A380-861 | HL7620     | Korean Air           | S      |
 
-## 🇦🇪 Etihad Airways – 7 sztuk
+**(Korean Air utrzymuje w użyciu większość ze swoich 10 A380; pozostałe wycofa z eksploatacji przed 2031 r.)**
 
-| Lp  | Model     | Rejestracja | Status |
-|-----|-----------|-------------|--------|
-| 138 | A380-861  | A6-APA      | A      |
-| 139 | A380-861  | A6-APB      | A      |
-| 140 | A380-861  | A6-APC      | A      |
-| 141 | A380-861  | A6-APD      | A      |
-| 142 | A380-861  | A6-APE      | A      |
-| 143 | A380-861  | A6-APF      | A      |
-| 144 | A380-861  | A6-APG      | S      |
+## Lufthansa (8 szt.)
+| 🇩🇪 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 126     | A380-841 | D-AIMA     | Lufthansa            | A      |
+| 127     | A380-841 | D-AIMB     | Lufthansa            | A      |
+| 128     | A380-841 | D-AIMC     | Lufthansa            | A      |
+| 129     | A380-841 | D-AIMH     | Lufthansa            | A      |
+| 130     | A380-841 | D-AIMK     | Lufthansa            | A      |
+| 131     | A380-841 | D-AIML     | Lufthansa            | A      |
+| 132     | A380-841 | D-AIMM     | Lufthansa            | A      |
+| 133     | A380-841 | D-AIMN     | Lufthansa            | A      |
 
-## 🇩🇪 Lufthansa – 8 sztuk
+**(Linie Lufthansa reaktywowały 8 ze swoich A380 – pozostałe 6 sprzedano Airbusowi do rozbiórki na części)**
 
-| Lp  | Model     | Rejestracja | Status |
-|-----|-----------|-------------|--------|
-| 145 | A380-841  | D-AIMA      | A      |
-| 146 | A380-841  | D-AIMB      | A      |
-| 147 | A380-841  | D-AIMC      | A      |
-| 148 | A380-841  | D-AIMH      | A      |
-| 149 | A380-841  | D-AIMK      | A      |
-| 150 | A380-841  | D-AIML      | A      |
-| 151 | A380-841  | D-AIMM      | A      |
-| 152 | A380-841  | D-AIMN      | A      |
+## Qantas (10 szt.)
+| 🇦🇺 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 134     | A380-842 | VH-OQA     | Qantas               | A      |
+| 135     | A380-842 | VH-OQB     | Qantas               | A      |
+| 136     | A380-842 | VH-OQC     | Qantas               | A      |
+| 137     | A380-842 | VH-OQD     | Qantas               | A      |
+| 138     | A380-842 | VH-OQG     | Qantas               | A      |
+| 139     | A380-842 | VH-OQH     | Qantas               | A      |
+| 140     | A380-842 | VH-OQI     | Qantas               | A      |
+| 141     | A380-842 | VH-OQJ     | Qantas               | A      |
+| 142     | A380-842 | VH-OQK     | Qantas               | A      |
+| 143     | A380-842 | VH-OQL     | Qantas               | A      |
 
-## 🇦🇺 Qantas – 10 sztuk
+**(Qantas ponownie uruchomił 10 ze swoich A380 po pandemii; 2 najstarsze maszyny zostały zezłomowane)**
 
-| Lp  | Model     | Rejestracja | Status |
-|-----|-----------|-------------|--------|
-| 153 | A380-842  | VH-OQA      | A      |
-| 154 | A380-842  | VH-OQB      | A      |
-| 155 | A380-842  | VH-OQC      | A      |
-| 156 | A380-842  | VH-OQD      | A      |
-| 157 | A380-842  | VH-OQG      | A      |
-| 158 | A380-842  | VH-OQH      | A      |
-| 159 | A380-842  | VH-OQI      | A      |
-| 160 | A380-842  | VH-OQJ      | A      |
-| 161 | A380-842  | VH-OQK      | A      |
-| 162 | A380-842  | VH-OQL      | A      |
+## Qatar Airways (8 szt.)
+| 🇶🇦 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 144     | A380-861 | A7-APA     | Qatar Airways        | A      |
+| 145     | A380-861 | A7-APB     | Qatar Airways        | A      |
+| 146     | A380-861 | A7-APD     | Qatar Airways        | A      |
+| 147     | A380-861 | A7-APE     | Qatar Airways        | A      |
+| 148     | A380-861 | A7-APF     | Qatar Airways        | A      |
+| 149     | A380-861 | A7-APG     | Qatar Airways        | A      |
+| 150     | A380-861 | A7-APH     | Qatar Airways        | A      |
+| 151     | A380-861 | A7-API     | Qatar Airways        | A      |
 
-## 🇶🇦 Qatar Airways – 8 sztuk
+**(Qatar Airways utrzymuje w eksploatacji 8 A380, dwa kolejne zostały wycofane z użycia przed 2024 r.)**
 
-| Lp  | Model     | Rejestracja | Status |
-|-----|-----------|-------------|--------|
-| 163 | A380-861  | A7-APA      | A      |
-| 164 | A380-861  | A7-APB      | A      |
-| 165 | A380-861  | A7-APD      | A      |
-| 166 | A380-861  | A7-APE      | A      |
-| 167 | A380-861  | A7-APF      | A      |
-| 168 | A380-861  | A7-APG      | A      |
-| 169 | A380-861  | A7-APH      | A      |
-| 170 | A380-861  | A7-API      | A      |
+## Singapore Airlines (12 szt.)
+| 🇸🇬 Lp. | Model   | Rejestracja | Linia lotnicza       | Status |
+|---------|---------|-------------|----------------------|--------|
+| 152     | A380-841 | 9V-SKH     | Singapore Airlines   | A      |
+| 153     | A380-841 | 9V-SKG     | Singapore Airlines   | A      |
+| 154     | A380-841 | 9V-SKI     | Singapore Airlines   | A      |
+| 155     | A380-841 | 9V-SKJ     | Singapore Airlines   | A      |
+| 156     | A380-841 | 9V-SKK     | Singapore Airlines   | A      |
+| 157     | A380-841 | 9V-SKL     | Singapore Airlines   | A      |
+| 158     | A380-841 | 9V-SKM     | Singapore Airlines   | A      |
+| 159     | A380-841 | 9V-SKN     | Singapore Airlines   | A      |
+| 160     | A380-841 | 9V-SKP     | Singapore Airlines   | A      |
+| 161     | A380-841 | 9V-SKR     | Singapore Airlines   | A      |
+| 162     | A380-841 | 9V-SKS     | Singapore Airlines   | S      |
+| 163     | A380-841 | 9V-SKT     | Singapore Airlines   | S      |
 
-## 🇸🇬 Singapore Airlines – 12 sztuk
-
-| Lp  | Model     | Rejestracja | Status |
-|-----|-----------|-------------|--------|
-| 171 | A380-841  | 9V-SKH      | A      |
-| 172 | A380-841  | 9V-SKG      | A      |
-| 173 | A380-841  | 9V-SKI      | A      |
-| 174 | A380-841  | 9V-SKJ      | A      |
-| 175 | A380-841  | 9V-SKK      | A      |
-| 176 | A380-841  | 9V-SKL      | A      |
-| 177 | A380-841  | 9V-SKM      | A      |
-| 178 | A380-841  | 9V-SKN      | A      |
-| 179 | A380-841  | 9V-SKP      | A      |
-| 180 | A380-841  | 9V-SKR      | A      |
-| 181 | A380-841  | 9V-SKS      | S      |
-| 182 | A380-841  | 9V-SKT      | S      |
+**(Singapore Airlines dysponuje 12 samolotami A380, z czego 10 było aktywnych liniowo, a 2 pozostawały zapasowe/odstawione)**
